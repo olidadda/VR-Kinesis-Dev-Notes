@@ -6,6 +6,8 @@
 - Resolved conflicts between new Unity XR system and Legacy XR, by going back to Legacy XR for this project
 - Reinstalled Oculus Desktop & Android SDKs
 
+-Added Dynamic Fixed Foveated Rendering (Quest)
+
 * Random error once: Assertion failed on expression: 'task.rasterData.vertexBuffer == NULL' 
 * Error (400 times on one occasion so far): Failed to create RenderTexture ... error 0x80070057
 
