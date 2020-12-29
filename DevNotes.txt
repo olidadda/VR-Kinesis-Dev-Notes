@@ -3,3 +3,10 @@
 - Manual Backup and setup Version Control + Github
 - Updated Oculus Integration to version 23.1
 - Resolved conflicts with Oculus Integration and modified versions
+- Resolved conflicts between new Unity XR system and Legacy XR, by going back to Legacy XR for this project
+- Reinstalled Oculus Desktop & Android SDKs
+
+* Random error once: Assertion failed on expression: 'task.rasterData.vertexBuffer == NULL' 
+* Error (400 times on one occasion so far): Failed to create RenderTexture ... error 0x80070057
+
+
