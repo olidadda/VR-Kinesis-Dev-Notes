@@ -17,5 +17,8 @@
 - Solved bug where Play button was triggering sound when disabled
 - Solved bug where audio pausing but not other events in tutorial
 
+31st December 2020
+- refactored references to red button object
+
 
 
