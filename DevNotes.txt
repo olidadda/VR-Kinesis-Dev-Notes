@@ -11,4 +11,11 @@
 * Random error once: Assertion failed on expression: 'task.rasterData.vertexBuffer == NULL' 
 * Error (400 times on one occasion so far): Failed to create RenderTexture ... error 0x80070057
 
+3oth December 2020
+- Updated Unity to 2.4.17f1
+- Refactored Tutorial code
+- Solved bug where Play button was triggering sound when disabled
+- Solved bug where audio pausing but not other events in tutorial
+
+
 
