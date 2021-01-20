@@ -23,5 +23,9 @@
 1st January 2021
 -refactoring calibration script
 
+20th January
+- a lot of refactoring + solving small bugs
+- added Max Arm height Calibration
+
 
 
