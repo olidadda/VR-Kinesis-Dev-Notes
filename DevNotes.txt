@@ -27,5 +27,10 @@
 - a lot of refactoring + solving small bugs
 - added Max Arm height Calibration
 
+11th February
+- discovered bugs (balls spawn way out, in ground, sometimes double balls same colour)
+- checked that different songs work at 120bpm
+
+
 
 
