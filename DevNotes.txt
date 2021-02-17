@@ -34,6 +34,10 @@
 12th Feb
 - started building menu shapes
 
+17th Feb
+-created working slider 
+-solved BNG bug
+
 
 
 
