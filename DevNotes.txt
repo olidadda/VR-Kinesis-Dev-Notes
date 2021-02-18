@@ -38,6 +38,10 @@
 -created working slider 
 -solved BNG bug
 
+18 Feb
+- UI buttons emit light when pressed
+- UI audiosources cleaned
+- collider doubts (buttons very jumpy)
 
 
 
